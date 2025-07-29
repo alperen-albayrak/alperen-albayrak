@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alperen</h1>
 <h3 align="center">Computer Engineering Student at Hacettepe University</h3>
 
-- 🌱 I’m currently learning **Rust** and **C**
+- 🌱 I’m currently learning **Go** and **C**
 
 - 📫 How to reach me **hi@alperenalbayrak.dev**
 
