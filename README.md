@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Go** and **C**
 
-- 📫 How to reach me **hi@alperenalbayrak.dev**
+- 📫 How to reach me **alperen@albayrak.net.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
